@@ -1,0 +1,15 @@
+Month,New Customers,Revenue,Bookings
+Oct,0,$0.00,0
+Nov,0,$0.00,0
+Dec,0,$0.00,0
+Jan,0,$0.00,0
+Feb,0,$0.00,0
+Mar,0,$0.00,0
+Apr,2,$0.00,8
+
+Total Customers,2
+
+Recent Customers
+Name,Email,Phone,Sign-up Date
+Ramchandra Singh,abc@gmail.com,123456789,2025-04-12
+Alex Mercer,alex@example.com,1234567890,2025-04-12

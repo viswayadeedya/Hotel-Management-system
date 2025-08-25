@@ -1,0 +1,66 @@
+{
+  "new_customers": {
+    "Jul": 512,
+    "Aug": 580,
+    "Sep": 425,
+    "Oct": 620,
+    "Nov": 575,
+    "Dec": 430
+  },
+  "total_customers": {
+    "Jul": 4500,
+    "Aug": 4750,
+    "Sep": 4950,
+    "Oct": 5250,
+    "Nov": 5000,
+    "Dec": 5000
+  },
+  "new_customers_list": [
+    {
+      "name": "George Smith",
+      "email": "george@gmail.com",
+      "phone": "123-456-7890",
+      "signup_date": "November 1, 2024"
+    },
+    {
+      "name": "Sarah Brown",
+      "email": "sarah@gmail.com",
+      "phone": "234-567-8901",
+      "signup_date": "November 2, 2024"
+    },
+    {
+      "name": "Michael Johnson",
+      "email": "michael@gmail.com",
+      "phone": "345-678-9012",
+      "signup_date": "November 3, 2024"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emily@gmail.com",
+      "phone": "456-789-0123",
+      "signup_date": "November 4, 2024"
+    },
+    {
+      "name": "Daniel Miller",
+      "email": "daniel@gmail.com",
+      "phone": "567-890-1234",
+      "signup_date": "November 5, 2024"
+    }
+  ],
+  "revenue_data": {
+    "Jul": 45000,
+    "Aug": 52000,
+    "Sep": 48000,
+    "Oct": 63000,
+    "Nov": 57000,
+    "Dec": 51000
+  },
+  "occupancy_data": {
+    "Jul": 78,
+    "Aug": 85,
+    "Sep": 72,
+    "Oct": 90,
+    "Nov": 82,
+    "Dec": 75
+  }
+}
